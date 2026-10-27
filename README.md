@@ -3,6 +3,7 @@
 **Aspiring DevOps Engineer** | ECE Graduate | Bangalore, India
 
 I'm a fresher moving from electronics and telecom into DevOps, combining a strong networking foundation with hands-on automation and infrastructure skills.
+I'm looking forward to make my career in Devops.
 
 ## 🔭 What I'm working on
 - Building a DevOps skill set: Linux, Git, CI/CD, Docker, Kubernetes, cloud basics
@@ -10,12 +11,12 @@ I'm a fresher moving from electronics and telecom into DevOps, combining a stron
 
 ## 🛠️ Skills
 **Networking:** CCNA, Cisco Packet Tracer
-**Programming:** Python, C/C++, SQL, MATLAB
+**Programming:** Python, C,C++, SQL, MATLAB
 **Version control:**  GitHub
 **Hardware / Verification:** Verilog, SystemVerilog, Questa Sim
 
 ## 💼 Experience
-- **Tejas Networks** (Jan–May 2026): Tested and validated Remote Radio Head (RRH) telecom equipment against specs, diagnosed hardware issues and wrote technical reports.
+- **Tejas Networks** (Jan–May 2026): Tested and validated Remote Radio Head (RRH) telecom equipment against specifications, diagnosed hardware issues and wrote technical reports.
 - **BEL** (Oct–Dec 2025): Worked with R&D, manufacturing and testing teams on defense electronics projects, with exposure to quality standards and hardware testing.
 - **RJ Semiconductor** (Oct–Dec 2024): Design & Verification trainee. Built a Verilog vending-machine controller and a SystemVerilog AMBA APB interface.
 
@@ -29,7 +30,7 @@ B.E. in Electronics and Communication Engineering, PES College of Engineering, M
 
 ## 📫 Reach me
 - Email: vishwasgowda031@gmail.com
-- phone: 9591988290
+- Phone: 9591988290
 
 
 <!--
