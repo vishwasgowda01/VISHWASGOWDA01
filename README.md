@@ -1,6 +1,6 @@
 ## # Hi, I'm Vishwas 👋
 
-**Aspiring DevOps Engineer** | ECE Graduate | CCNA Certified | Bangalore, India
+**Aspiring DevOps Engineer** | ECE Graduate | Bangalore, India
 
 I'm a fresher moving from electronics and telecom into DevOps, combining a strong networking foundation with hands-on automation and infrastructure skills.
 
